@@ -38,29 +38,39 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 
 ## 🏆 Featured Projects
 
-### 🚨 [RapidReach - Emergency Alert System](https://github.com/YugmPatel/RapidReach)
+**🚨 RapidReach - Emergency Alert System**  
 **Tech:** React.js, Node.js, MongoDB, Socket.IO, Web Speech API
-- Built geolocation-based SOS system with **<1.2s latency**
-- Voice command support with **95% accuracy**
-- Handles **1.2K concurrent alerts/minute**
+- **Key Features:**
+  - Geolocation-based SOS alert system with real-time notifications
+  - Voice command support for hands-free emergency activation
+  - Live alert broadcasting to emergency contacts and authorities
+  - Interactive map visualization showing alert locations
 
-### 📈 [Quant AI - Crypto Trading Assistant](https://github.com/YugmPatel/Quant-AI)
+**📈 Quant AI - Crypto Trading Assistant**  
 **Tech:** Python, Streamlit, LLaMA 3.2, TimeGPT, MongoDB
-- AI trading assistant analyzing **1K+ daily market signals**
-- **78% prediction confidence** using NLP sentiment analysis
-- Real-time dashboard with **200+ crypto forecasts**
+- **Key Features:**
+  - AI-powered market analysis and trading recommendations
+  - Real-time sentiment analysis from news and social media
+  - Automated crypto price forecasting using advanced ML models
+  - Interactive dashboard with customizable trading indicators
+  - Portfolio tracking and risk assessment tools
 
-### 🎓 [WealthMinds - Learning Management System]
+**🎓 WealthMinds - Learning Management System**  
 **Tech:** Python, Flask, React.js, PostgreSQL, AWS
-- LMS serving **12K+ learners** with real-time content routing
-- **70% improvement** in query performance through optimization
-- **40% reduction** in downtime via CI/CD automation
+- **Key Features:**
+  - Comprehensive course management and content delivery
+  - Real-time student progress tracking and analytics
+  - Interactive quizzes and assessment tools
+  - Automated grading and feedback system
 
-### 🤖 [AI Real Estate Chatbot](link-to-repo)
+**🤖 AI Real Estate Chatbot**  
 **Tech:** Python, Flask/FastAPI, MongoDB, Apache Airflow
-- Handles **2M+ daily queries** across **1.5K+ listings**
-- ETL pipelines processing **5K+ updates/hour**
-- **30% increase** in deployment velocity with Docker
+- **Key Features:**
+  - Natural language processing for property search queries
+  - Automated property recommendation engine
+  - Real-time listing updates and price alerts
+  - Virtual property tour scheduling
+  - Integration with MLS and property databases
 
 
 ## 🎓 Education & Certifications
