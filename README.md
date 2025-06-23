@@ -1,11 +1,10 @@
 # Hi there, I'm Yugm Patel! 👋
 
 ## 🚀 About Me
-I'm a **Software Engineer** and **Master's student** at San Jose State University pursuing Computer Software Engineering with a focus on **AI/ML**, **Full-Stack Development**, and **Cloud Technologies**. Currently working as a Software Engineer Intern at **UL Solutions** in Fremont, CA.
+I'm a **Software Engineer** and **Master's student** at San Jose State University pursuing Computer Software Engineering with a focus on **AI/ML**, **Full-Stack Development**, and **Cloud Technologies**.
 
-- 🔭 Currently working on: **RapidReach** - Emergency Alert Response System
 - 🌱 Learning: Advanced Machine Learning, Deep Learning, and Enterprise Software Platforms
-- 💼 Experience: 2+ years in software engineering with expertise in Python, React, and AWS
+- 💼 Experience: Software engineering with expertise in Python, React, and AWS
 - 📍 Based in: San Jose, CA
 - 🎯 GPA: 3.90/4.00 (Master's) | 3.95/4.00 (Bachelor's)
 - 🌐 **Portfolio**: [yugm-portfolio.vercel.app](https://yugm-portfolio.vercel.app/)
@@ -26,7 +25,6 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,13 +38,13 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 
 ## 🏆 Featured Projects
 
-### 🚨 [RapidReach - Emergency Alert System](link-to-repo)
+### 🚨 [RapidReach - Emergency Alert System](https://github.com/YugmPatel/RapidReach)
 **Tech:** React.js, Node.js, MongoDB, Socket.IO, Web Speech API
 - Built geolocation-based SOS system with **<1.2s latency**
 - Voice command support with **95% accuracy**
 - Handles **1.2K concurrent alerts/minute**
 
-### 📈 [Quant AI - Crypto Trading Assistant](link-to-repo)
+### 📈 [Quant AI - Crypto Trading Assistant](https://github.com/YugmPatel/Quant-AI)
 **Tech:** Python, Streamlit, LLaMA 3.2, TimeGPT, MongoDB
 - AI trading assistant analyzing **1K+ daily market signals**
 - **78% prediction confidence** using NLP sentiment analysis
@@ -64,22 +62,6 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 - ETL pipelines processing **5K+ updates/hour**
 - **30% increase** in deployment velocity with Docker
 
-## 💼 Professional Experience
-
-**Software Engineer Intern** @ **UL Solutions** (May 2025 - Aug 2025)
-- Automated testing frameworks reducing manual setup by **60%**
-- **99%+ reliability** in production deployments
-
-**Software Engineer Intern** @ **Technotery Business Solutions** (May 2023 - Apr 2024)
-- Architected WealthMinds LMS scaling to **10K+ users**
-- **90% improvement** in response time through optimization
-- **20% reduction** in AWS costs through infrastructure tuning
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YugmPatel&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YugmPatel&layout=compact&theme=dark)
 
 ## 🎓 Education & Certifications
 
@@ -87,7 +69,9 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 🎓 **Bachelor of Science in Computer Engineering** | Silver Oak University (2020-2024)
 
 🏅 **Red Hat Certified System Administrator (RHCSA)**
-🏅 **Google Hash Code 2022 Participant**
+🏅 **Google Hash Code 2022**
+🏅 **Architecting with Google Compute Engine**
+🏅 **Google Cloud Essentials**
 
 ## 📫 Let's Connect!
 
