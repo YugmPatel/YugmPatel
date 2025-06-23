@@ -4,7 +4,7 @@
 I'm a **Software Engineer** and **Master's student** at San Jose State University pursuing Computer Software Engineering with a focus on **AI/ML**, **Full-Stack Development**, and **Cloud Technologies**.
 
 - 🌱 Learning: Advanced Machine Learning, Deep Learning, and Enterprise Software Platforms
-- 💼 Experience: Software engineering with expertise in Python, React, and AWS
+- 💼 Experience: Software engineering with expertise in Python, React, Node.js, MongoDB, AWS and AI/ML
 - 📍 Based in: San Jose, CA
 - 🎯 GPA: 3.90/4.00 (Master's) | 3.95/4.00 (Bachelor's)
 - 🌐 **Portfolio**: [yugm-portfolio.vercel.app](https://yugm-portfolio.vercel.app/)
