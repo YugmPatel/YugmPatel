@@ -50,7 +50,7 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 - **78% prediction confidence** using NLP sentiment analysis
 - Real-time dashboard with **200+ crypto forecasts**
 
-### 🎓 [WealthMinds - Learning Management System](link-to-repo)
+### 🎓 [WealthMinds - Learning Management System]
 **Tech:** Python, Flask, React.js, PostgreSQL, AWS
 - LMS serving **12K+ learners** with real-time content routing
 - **70% improvement** in query performance through optimization
