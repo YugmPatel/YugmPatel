@@ -1,7 +1,7 @@
 # Hi there, I'm Yugm Patel! 👋
 
 ## 🚀 About Me
-I'm a **Software Engineer** and **Master's student** at San Jose State University pursuing Computer Software Engineering with a focus on **AI/ML**, **Full-Stack Development**, and **Cloud Technologies**.
+I'm a **Software Engineer** with a focus on **AI/ML**, **Full-Stack Development**, and **Cloud Technologies**.
 
 - 🌱 Learning: Advanced Machine Learning, Deep Learning, and Enterprise Software Platforms
 - 💼 Experience: Software engineering with expertise in Python, React, Node.js, MongoDB, AWS and AI/ML
@@ -75,9 +75,9 @@ I'm a **Software Engineer** and **Master's student** at San Jose State Universit
 
 ## 🎓 Education
 
-🎓 **Master of Science in Computer Software Engineering** | San Jose State University (2024-2026)
+🎓 **Master of Science in Computer Software Engineering** | San Jose State University
 
-🎓 **Bachelor of Science in Computer Engineering** | Silver Oak University (2020-2024)
+🎓 **Bachelor of Science in Computer Engineering** | Silver Oak University
 
 ## Certifications
 
